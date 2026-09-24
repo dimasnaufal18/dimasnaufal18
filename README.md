@@ -28,18 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimasnaufal&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasnaufal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Hubungi Saya
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:email@example.com)
@@ -48,4 +36,4 @@
 
 ---
 
-⭐️ From [dimasnaufal](https://github.com/dimasnaufal)
+⭐️ From [dimasnaufal18](https://github.com/dimasnaufal)
